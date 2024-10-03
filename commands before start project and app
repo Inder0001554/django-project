@@ -1,0 +1,3 @@
+python manage.py startproject hello
+python manage.py startapp home
+
